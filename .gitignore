@@ -1,0 +1,32 @@
+# Downloads
+macos_wallpapers/
+*.zip
+*.heic
+*.heif
+*.mov
+*.part
+
+# Metadata
+metadata.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+dist/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+ODT/
+downloaded.pdf
